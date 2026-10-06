@@ -46,10 +46,14 @@ slate blue is the one counter-tone, kept out of the green wash entirely.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Terrarium**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Trellis**. Install Borozdov Trellis under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Terrarium** under Style Settings → Borozdov Trellis → Variant. The variant brings
+this theme's palette, type and corners; its own layout, and its embedded font if it has
+one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/terrarium/releases/latest)
 into `<vault>/.obsidian/themes/Borozdov Terrarium/`, then choose Borozdov Terrarium under
 Settings → Appearance → Themes.
@@ -72,6 +76,4 @@ MIT — see [LICENSE](LICENSE).
 оранжерея на кремовой бумаге, и тёмный «Hothouse» — та же теплица после того, как погасли
 лампы. Классическая антиква Linux Libertine несёт заголовок и два верхних уровня
 подзаголовков, рубленый шрифт платформы — всё остальное. Дёрн-зелёный — единственный тёплый
-акцент, приглушённый серо-голубой — единственный холодный противовес. Устанавливается из
-каталога: Настройки → Оформление → Темы → Настроить → Borozdov Terrarium → Установить и
-применить.
+акцент, приглушённый серо-голубой — единственный холодный противовес. В каталоге тема живёт вариантом Borozdov Trellis: установите Borozdov Trellis и плагин Style Settings, затем выберите Terrarium в Style Settings → Borozdov Trellis → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
